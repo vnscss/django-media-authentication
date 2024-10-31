@@ -1,12 +1,12 @@
 
 # Django Media Authentication
 
+
+Este projeto implementa um sistema de controle de acesso para arquivos de mídia em um projeto Django. Ele utiliza o Django para definir permissões de acesso e o NGINX para servir arquivos protegidos de forma segura.
+
 ## Créditos
 
 Este projeto é uma modificação de [protect-django-media-files-per-user-basis-with-nginx](https://b0uh.github.io/protect-django-media-files-per-user-basis-with-nginx.html) criado por [b0uh](https://github.com/b0uh).
-
-
-Este projeto implementa um sistema de controle de acesso para arquivos de mídia em um projeto Django. Ele utiliza o Django para definir permissões de acesso e o NGINX para servir arquivos protegidos de forma segura.
 
 ## Funcionalidade
 
